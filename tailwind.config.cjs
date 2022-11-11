@@ -4,7 +4,7 @@ const Color = require('color')
 
 module.exports = {
   content: ["./src/**/*.{html,js}"],
-  // darkMode: 'class',
+  darkMode: 'class',
   theme: {
     themeVariants: ['dark'],
     customForms: (theme) => ({
